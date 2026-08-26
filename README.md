@@ -31,11 +31,6 @@ Results:
 - This means we can train different LoRA layers for each task on the same base model and load them at inference time based on the usage
 
 
-To Do:
-- Multiclass classification
-- Multilabel classification
-
-
 Reference:
    - Data Donated on 6/21/2012 from UCIrvine Machine Learning Repository
      ```https://archive.ics.uci.edu/dataset/228/sms+spam+collection```
@@ -46,3 +41,6 @@ Reference:
    - Andrej Karapathy: ```https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7&pp=iAQB```
    - Sebastian Rashka: ```https://www.youtube.com/watch?v=5PFXJYme4ik```
 
+To Do:
+- Multiclass classification
+- Multilabel classification
