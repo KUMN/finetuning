@@ -5,7 +5,7 @@
 
 
 The model layers are coded from scratch (including multi-head attention, layernorm, GELU, LoRA)
-   GPT2 weights are loaded from open source model. See references section below for links to notebooks that deep dive into Transformers and Small Language Model training
+   GPT2 weights are loaded from open source model. See references section below for links to my notebooks that deep dive into Transformers and Small Language Model training
    
    
 This Small Language Model is used for binary classification and results evaluated:
