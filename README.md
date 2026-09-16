@@ -40,8 +40,8 @@ Reference:
    - GPT2 weights from: ``` https://openaipublic.blob.core.windows.net/gpt-2/models ```
    - Attention Is All You Need: ``` https://arxiv.org/abs/1706.03762 ```
    - LoRA: Low-Rank Adaptation of Large Language Models: ``` https://arxiv.org/abs/2106.09685 ```
-   - Andrej Karapathy: ```https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7&pp=iAQB```
-   - Sebastian Rashka: ```https://www.youtube.com/watch?v=5PFXJYme4ik```
+   - Lecture series by Andrej Karapathy: [Link to Youtube videos](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7&pp=iAQB)
+   - Lecture series by Sebastian Rashka: [Link to Youtube videos](https://www.youtube.com/watch?v=5PFXJYme4ik)
 
 To Do:
 - Multiclass classification
