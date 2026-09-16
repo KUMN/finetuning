@@ -33,10 +33,9 @@ Results:
 
 
 Reference:
-   - Deep Dive on Transformer: https://github.com/KUMN/char-gen/blob/main/char_level_transformer_scaled.ipynb
-   - Training Decoder transformer small language model: https://github.com/KUMN/char-gen/blob/main/SmallLMImplementation.ipynb
-   - Data Donated on 6/21/2012 from UCIrvine Machine Learning Repository
-     ```https://archive.ics.uci.edu/dataset/228/sms+spam+collection```
+   - Deep Dive on Transformer: [Link to code notebook] (https://github.com/KUMN/char-gen/blob/main/char_level_transformer_scaled.ipynb)
+   - Training Decoder transformer small language model: [Link to code notebook](https://github.com/KUMN/char-gen/blob/main/SmallLMImplementation.ipynb)
+   - Data Donated on 6/21/2012 from UCIrvine Machine Learning Repository [Link to dataset](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
    - From Hugging face: ``` https://huggingface.co/datasets/ucirvine/sms_spam/blob/main/plain_text/train-00000-of-00001.parquet ```
    - GPT2 weights from: ``` https://openaipublic.blob.core.windows.net/gpt-2/models ```
    - Attention Is All You Need: ``` https://arxiv.org/abs/1706.03762 ```
